@@ -1,0 +1,12 @@
+title: DevBreeze
+description: Something great will happen!
+theme: jekyll-theme-minimal
+url: "https://devbreeze.github.io"
+
+# Social Links (falls gewünscht)
+github_username: devbreeze
+
+# Plugins (optional)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
